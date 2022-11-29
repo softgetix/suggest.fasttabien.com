@@ -1,0 +1,7 @@
+[16-Dec-2020 14:03:55 Asia/Bangkok] PHP Notice:  Undefined variable: requireSSL in /home2/fasttabi/public_html/suggest.fasttabien.com/application/config/config.php on line 26
+[16-Dec-2020 14:04:02 Asia/Bangkok] PHP Notice:  Undefined variable: requireSSL in /home2/fasttabi/public_html/suggest.fasttabien.com/application/config/config.php on line 26
+[16-Dec-2020 14:04:03 Asia/Bangkok] PHP Notice:  Undefined variable: requireSSL in /home2/fasttabi/public_html/suggest.fasttabien.com/application/config/config.php on line 26
+[16-Dec-2020 14:04:13 Asia/Bangkok] PHP Notice:  Undefined variable: requireSSL in /home2/fasttabi/public_html/suggest.fasttabien.com/application/config/config.php on line 26
+[16-Dec-2020 14:04:17 Asia/Bangkok] PHP Notice:  Undefined variable: requireSSL in /home2/fasttabi/public_html/suggest.fasttabien.com/application/config/config.php on line 26
+[16-Dec-2020 14:04:18 Asia/Bangkok] PHP Notice:  Undefined variable: requireSSL in /home2/fasttabi/public_html/suggest.fasttabien.com/application/config/config.php on line 26
+[28-Feb-2021 11:24:52 Asia/Bangkok] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/fasttabi/public_html/suggest.fasttabien.com/system/core/Exceptions.php on line 104
